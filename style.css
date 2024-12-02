@@ -24,7 +24,6 @@ body {
   background-color: #E5D9F2;
   border-radius: 15px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
-  position: relative;
 }
 
 .container {
@@ -40,7 +39,7 @@ body {
 }
 
 .title {
-    font-size: 36px;
+    font-size: 3px;
     color: black;
     margin-bottom: 10px;
 }
